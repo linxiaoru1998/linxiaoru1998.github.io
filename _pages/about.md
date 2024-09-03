@@ -13,19 +13,20 @@ My research interests are in empirical finance and econometrics. My ongoing rese
 pension planning
 marriage economics
 pension insurance
+
 See my CV [linxiaoru_CV](../assest/CV_lxr.pdf).
 
 Education
 ======
 [Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)              2016-2020     
-· Bs in Information Management and Systems (Outstanding graduate)  
-[Korea Dankook University](https://www.dankook.ac.kr/)                                            2018     
+· Bs in Information Management and Systems (Outstanding graduate)    
+[Korea Dankook University](https://www.dankook.ac.kr/)                                             2018     
 · Exchange in International Trade  
-[Southwest Minzu University](https://www.swun.edu.cn/)                                        2020-2022    
-· Ms in Insurance                                  
-[Corvinus University of Budapest](https://www.uni-corvinus.hu)                                       
-· Ms in Economic Analysis (CSC)                                                                2021-2023
-· Phd in Economic                                                                                 2024-  
+[Southwest Minzu University](https://www.swun.edu.cn/)                                          2020-2022    
+· Ms in Insurance                                    
+[Corvinus University of Budapest](https://www.uni-corvinus.hu)                                         
+· Ms in Economic Analysis (CSC)                                                                  2021-2023  
+· Phd in Economic                                                                                  2024-    
 
 Contact
 ------
