@@ -11,7 +11,9 @@ I am currently a first year PhD student in Institute of Economics, [Corvinus Uni
 My research interests are in empirical finance and econometrics. My ongoing research covers topics on
 
     pension planning    
+      
     marriage economics    
+      
     pension insurance  
 
 See my CV [linxiaoru_CV] (../assets/CV_lxr.pdf)
