@@ -14,7 +14,7 @@ My research interests are in empirical finance and econometrics. My ongoing rese
     marriage economics    
     pension insurance  
 
-See my CV [linxiaoru_CV](../assests/CV_lxr.pdf).
+See my CV [linxiaoru_CV] (../assets/CV_lxr.pdf)
 
 Education
 ======
