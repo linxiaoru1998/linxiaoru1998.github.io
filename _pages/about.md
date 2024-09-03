@@ -10,13 +10,11 @@ redirect_from:
 I am currently a first year PhD student in Institute of Economics, [Corvinus University of Budapest](https://www.uni-corvinus.hu), focusing on the fields of pension planning, marriage economics, and insurance:) Very fortune to be advised by [Prof.Reguly Ágoston](https://regulyagoston.github.io/).
 My research interests are in empirical finance and econometrics. My ongoing research covers topics on
 
-    pension planning    
-      
-    marriage economics    
-      
+    pension planning        
+    marriage economics      
     pension insurance  
 
-See my CV [linxiaoru_CV] (../assets/CV_lxr.pdf)
+See my CV [linxiaoru_CV](../assets/CV_lxr.pdf)
 
 Education
 ======
