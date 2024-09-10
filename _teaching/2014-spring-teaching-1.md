@@ -1,14 +1,14 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Microeconomics Business"
+permalink: /teaching/2024-autumn-Undergraduate course
+venue: "Corvinus University of Budapest, Economics"
+date: 2024-09-09
+location: "Budapest, Hungary"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
 
 Heading 1
 ======
