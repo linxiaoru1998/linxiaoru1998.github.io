@@ -11,54 +11,60 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+• Ph.D. Candidate in Economics, Corvinus University of Budapest, Hungary Expected 2028
+
+• M.A. in Economic Analysis, Corvinus University of Budapest, Hungary 2023
+
+• M.A. in Insurance, Southwest Minzu University, China 2022
+
+• B.A. in Information Management and Information System, Chongqing University of Posts and Telecommunications, China 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+• Research Assistant 03/2025 – Current
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+HUN-REN Centre for Economic and Regional Studies(KRTK)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Project: ”The Role of High-Quality Suppliers in Productivity Development”
+
+
+• Research Assistant 09/2024 – Current
+
+Corvinus Institute for Advanced Studies(CIAS)
+
+Project: Conducted research on intergenerational family behavior and family stability.
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+• Languages: Chinese (native), English (fluent), Korean (basic)
+
+• Software: Stata/R/SPSS/LaTeX/Geoda, Blender/PS/AE
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+  <ul>
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+• Lecturer 09/2024 – Current
+
+Corvinus University of Budapest, Hungary
+
+Teaching in Microeconomics (Fall 2024) and Macroeconomics (Spring 2025)
+
   
-Service and leadership
+Hobbies
 ======
-* Currently signed in to 43 different slack teams
+* solo trip
+  
+* Vintange creater
+  
+* photographer
