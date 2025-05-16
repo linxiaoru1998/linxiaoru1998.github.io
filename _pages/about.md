@@ -14,7 +14,7 @@ My research interests are in empirical finance and econometrics. My ongoing rese
     Household economics      
     Firms behavior  
 
-See my CV [linxiaoru_CV](../assets/CV_lxr.pdf)
+See my CV [linxiaoru_CV](../assets/CV_Phd.pdf)
 
 Education
 ======
