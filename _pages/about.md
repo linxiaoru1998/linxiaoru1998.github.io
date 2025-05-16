@@ -7,26 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first year PhD student in Institute of Economics, [Corvinus University of Budapest](https://www.uni-corvinus.hu), focusing on the fields of pension planning, marriage economics, and insurance:) Very fortune to be advised by [Prof.Reguly Ágoston](https://regulyagoston.github.io/).
+I am currently a first year PhD student in Institute of Economics, [Corvinus University of Budapest](https://www.uni-corvinus.hu),researche assistant in [Hungarian Academy of Sciences of economic](https://kti.krtk.hu/en/publikaciok_post/gender-based-differences-in-eco-efficient-farming/) , Very fortune to be advised by [Prof.Reguly Ágoston](https://regulyagoston.github.io/).
 My research interests are in empirical finance and econometrics. My ongoing research covers topics on
 
-    pension planning        
-    marriage economics      
-    pension insurance  
+    Elder life       
+    Household economics      
+    Firms behavior  
 
 See my CV [linxiaoru_CV](../assets/CV_lxr.pdf)
 
 Education
 ======
-[Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)                                          2016-2020     
-· Bs in Information Management and Systems (Outstanding graduate)    
-[Korea Dankook University](https://www.dankook.ac.kr/)                                                                        2018     
-· Exchange in International Trade  
-[Southwest Minzu University](https://www.swun.edu.cn/)                                                                     2020-2022    
+
+
+[Corvinus University of Budapest](https://www.uni-corvinus.hu)                                                              2021-2023 , 2024-
+· Ms in Economic Analysis (CSC)                                                                                               
+· Phd in Economic                                                                                                               
+[Southwest Minzu University](https://www.swun.edu.cn/)                                                                      2020-2022    
 · Ms in Insurance                                    
-[Corvinus University of Budapest](https://www.uni-corvinus.hu)                                         
-· Ms in Economic Analysis (CSC)                                                                                             2021-2023  
-· Phd in Economic                                                                                                             2024-    
+[Korea Dankook University](https://www.dankook.ac.kr/)                                                                      2018     
+· Exchange in International Trade  
+[Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)                                           2016-2020     
+· Bs in Information Management and Systems (Outstanding graduate)    
+
 
 Contact
 ------
