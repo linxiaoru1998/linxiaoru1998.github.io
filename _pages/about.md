@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first year PhD student in Institute of Economics, [Corvinus University of Budapest](https://www.uni-corvinus.hu),researche assistant in [Hungarian Academy of Sciences of economic](https://kti.krtk.hu/en/publikaciok_post/gender-based-differences-in-eco-efficient-farming/) , Very fortune to be advised by [Prof.Reguly Ágoston](https://regulyagoston.github.io/).
+I am currently a first year PhD student in Institute of Economics, [Corvinus University of Budapest](https://www.uni-corvinus.hu),researcher assistant in [Hungarian Academy of Sciences of economic](https://kti.krtk.hu/en/publikaciok_post/gender-based-differences-in-eco-efficient-farming/) , Very fortune to be advised by [Prof.Reguly Ágoston](https://regulyagoston.github.io/).
 My research interests are in empirical finance and econometrics. My ongoing research covers topics on
 
     Elder life       
