@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV here: [CV PDF](/files/CV_PhD_Linxiaoru.pdf)
+You can download my full CV here: [CV PDF](/CV_PhD_Linxiaoru.pdf)
 
 Research Interests
 ======
