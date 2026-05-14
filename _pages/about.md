@@ -7,30 +7,50 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first year PhD student in Institute of Economics, [Corvinus University of Budapest](https://www.uni-corvinus.hu),researcher assistant in [Hungarian Academy of Sciences of economic](https://kti.krtk.hu/en/publikaciok_post/gender-based-differences-in-eco-efficient-farming/) , Very fortune to be advised by [Prof.Reguly Ágoston](https://regulyagoston.github.io/).
-My research interests are in empirical finance and econometrics. My ongoing research covers topics on
+I am a PhD student in Economics at the [Corvinus University of Budapest](https://www.uni-corvinus.hu), based in Budapest, Hungary. I am also a Research Assistant at the [HUN-REN KRTK Institute of Economics](https://kti.krtk.hu/en/). I am very fortunate to be advised by [Prof. Ágoston Reguly](https://regulyagoston.github.io/).
 
-    Elder life       
-    Household economics      
-    Firms behavior  
+My research interests are in applied microeconomics, labour economics, ageing, retirement, family support, sustainable finance, and banking stability. My current research focuses on public work programmes, labour-market transitions, and the role of public employment as a safety net and possible bridge to retirement for older low-skilled workers in Hungary.
 
-See my CV [linxiaoru_CV](../assets/CV_Phd.pdf)
+My ongoing research covers topics including:
+
+- Elderly labour-market transitions and retirement
+- Household economics and family support
+- Public work programmes and social safety nets
+- Firm behaviour and labour-market outcomes
+- Sustainable finance and banking stability
+
+You can find my CV here: [Lin Xiaoru CV](/files/CV_PhD_Linxiaoru.pdf)
 
 Education
 ======
 
+[Corvinus University of Budapest](https://www.uni-corvinus.hu)  
+· PhD in Economics, 2024–Present  
+· M.A. in Economic Analysis, 2022–2023  
 
-[Corvinus University of Budapest](https://www.uni-corvinus.hu)                                                              
-· Ms in Economic Analysis (CSC)                                                                                              2021-2023
-· Phd in Economic                                                                                                            2024-present 
-[Southwest Minzu University](https://www.swun.edu.cn/)                                                                        
-· Ms in Insurance                                                                                                            2020-2022  
-[Korea Dankook University](https://www.dankook.ac.kr/)                                                                           
-· Exchange in International Trade                                                                                            2018
-[Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)                                               
-· Bs in Information Management and Systems (Outstanding graduate)                                                            2016-2020 
+[Southwest Minzu University](https://www.swun.edu.cn/)  
+· M.A. in Insurance, 2020–2022  
 
+[Dankook University](https://www.dankook.ac.kr/)  
+· Exchange Student in International Trade, 2018  
+
+[Chongqing University of Posts and Telecommunications](https://www.cqupt.edu.cn/)  
+· B.Sc. in Information Management and Information Systems, 2016–2020  
+· Outstanding Graduate  
+
+Academic Experience
+======
+
+Research Assistant  
+[HUN-REN KRTK Institute of Economics](https://kti.krtk.hu/en/), Budapest, Hungary  
+2025–Present  
+
+Lecturer  
+[Corvinus University of Budapest](https://www.uni-corvinus.hu), Budapest, Hungary  
+2024–Present  
 
 Contact
 ------
-Email: xiaoru.lin@stud.uni-corvinus.hu or 244137173lxr@gmail.com
+
+Email: [xiaoru.lin@stud.uni-corvinus.hu](mailto:xiaoru.lin@stud.uni-corvinus.hu)  
+Alternative email: [244137173lxr@gmail.com](mailto:244137173lxr@gmail.com)
