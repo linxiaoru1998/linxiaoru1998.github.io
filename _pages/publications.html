@@ -1,36 +1,62 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% if site.author.googlescholar %}
+  <div class="wordwrap">
+    You can also find my articles on 
+    <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
+<h2>Working Papers and Research Projects</h2>
+<hr />
 
+<div class="publication-item">
+  <h3>Public Work Programmes as Safety Net of the Most Vulnerable</h3>
+  <p><strong>Main PhD Project</strong></p>
+  <p><em>Joint with Ágoston Reguly.</em></p>
+  <p>
+    This project studies public work programmes as a safety net and possible bridge to retirement
+    for older low-skilled workers in Hungary. It focuses on labour-market transitions, public employment,
+    retirement pathways, and the role of public work in supporting vulnerable workers.
+  </p>
+</div>
 
+<br />
+
+<div class="publication-item">
+  <h3>Bank Runs Meta-analysis</h3>
+  <p><strong>Ongoing</strong></p>
+  <p><em>Joint with Andreas Orland.</em></p>
+  <p>
+    This project conducts a meta-analysis of depositor behaviour and bank-run episodes,
+    with a focus on financial stability, depositor responses, and banking crises.
+  </p>
+</div>
+
+<br />
+
+<div class="publication-item">
+  <h3>Green Fund Shareholding and Corporate Climate Risk Disclosure</h3>
+  <p><strong>Under Review</strong></p>
+  <p>
+    This paper studies the relationship between green fund ownership and corporate climate-risk
+    disclosure among Chinese A-share listed firms.
+  </p>
+</div>
+
+<br />
+
+<h2>Research Interests</h2>
+<hr />
+
+<p>
+  Applied microeconomics; labour economics; ageing; retirement; family support;
+  sustainable finance; and banking stability.
+</p>
