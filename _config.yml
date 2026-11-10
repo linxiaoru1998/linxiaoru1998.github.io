@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lin Xiaoru / personal website"
+title                    : "Xiaoru Lin"
 title_separator          : "-"
-name                     : &name "Lin Xiaoru"
-description              : &description "Welcome to my future"
+name                     : &name "Xiaoru Lin"
+description              : &description "PhD candidate in Economics, Corvinus University of Budapest"
 url                      : https://linxiaoru1998.github.io # the base hostname & protocol for your site e.g. "https://linxiaoru1998.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lin Xiaoru /linxiaoru1998.github.io"
@@ -22,9 +22,9 @@ repository               : "Lin Xiaoru /linxiaoru1998.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Lin Xiaoru"
+  name             : "Xiaoru Lin"
   pronouns         : # example: "she/her"  
-  bio              : "Welcome to Lin' future"
+  bio              : "PhD Candidate in Economics, Corvinus University of Budapest"
   location         : "Budapest, Hungary"
 #  employer         : 
 #  uri              : 
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "linxiaoru1998"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
